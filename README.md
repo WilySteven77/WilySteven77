@@ -12,6 +12,15 @@ Desarrollador de software Fullstack con experiencia en el diseño, desarrollo e 
 ![](https://nirzak-streak-stats.vercel.app/?user=WilySteven77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilySteven77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/WilySteven77/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=WilySteven77&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilySteven77&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilySteven77&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
